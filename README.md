@@ -1,6 +1,6 @@
-# Smoke and Fire Detector
+# 🔥🔥 Smoke and Fire Detector 🔥🔥
 # SAFD
 
-Designer and Developer: Dannz
+Designer and Developer: Dannz 👨🏻‍💻
 Function:
-Fire detection and fire alarm with heat sensor and smoke sensor
+🚒 Fire detection and fire alarm with heat sensor and smoke sensor
