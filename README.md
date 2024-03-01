@@ -5,4 +5,4 @@ Designer and Developer: Dannz 👨🏻‍💻
 Function:
 🚒 Fire detection and fire alarm with heat sensor and smoke sensor
 
-#RECOMMEND FOR USING TINKERCAD FOR SIMULATOR
+# RECOMMEND FOR USING TINKERCAD FOR SIMULATOR
